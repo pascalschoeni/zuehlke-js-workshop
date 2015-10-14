@@ -1,1 +1,2 @@
-# Zühlke JS Testing Workshop for SAM
+# This repo has moved
+https://github.com/webplatformz/js-basic-workshop
